@@ -1,7 +1,5 @@
 ﻿#include "Pixel.h"
 #include <ostream>
-
-
 Pixel::Pixel(unsigned char Pixel) : m_color(Pixel)
 {
 
